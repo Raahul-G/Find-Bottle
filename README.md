@@ -2,6 +2,8 @@
 # Find Bottle 
 **Find Bottle** is an object detection model that uses YOLOv5, a popular deep learning-based object detection algorithm, and is deployed using Streamlit, a user-friendly Python web framework for creating interactive web applications. The goal of this project is to detect and locate bottles in images or real-time video streams.
 
+[Presentation](https://www.youtube.com/watch?v=NClJX2nA8J8)
+
 ## Installation
 
 To run the Find Bottle project on your local machine, follow the steps below:
